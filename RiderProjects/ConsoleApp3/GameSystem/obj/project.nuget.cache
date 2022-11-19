@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wWLnoFPfzjdeypVgyHbwu6O11IY7pZHrhrTQmN/PUMJTHixnLW8G7e5Euliw0pBi7zpCobNsndkboWt5FRzfNA==",
+  "success": true,
+  "projectFilePath": "/home/bruh/RiderProjects/ConsoleApp3/GameSystem/GameSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/bruh/.nuget/packages/raylib-cs/4.2.0.1/raylib-cs.4.2.0.1.nupkg.sha512",
+    "/home/bruh/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
