@@ -1,0 +1,15 @@
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.deps.json
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.runtimeconfig.json
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.dll
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.pdb
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.AssemblyReference.cache
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfoInputs.cache
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfo.cs
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.dll
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/refint/ConsoleApp3.dll
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.pdb
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.genruntimeconfig.cache
+/home/bruh/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ref/ConsoleApp3.dll
